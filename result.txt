@@ -1,0 +1,22 @@
+1 Regis 15
+2 Herd 8
+3 Mennea 4
+4 Williams 16
+5 Frederics 14
+6 Carlos 1
+7 Miller 13
+8 Chepel 19
+9 Obikvelu 20
+10 Boldon 17
+11 Crowford 10
+12 Smit 2
+13 Green 18
+14 Baptist 7
+15 Vaden 9
+16 Johnson 12
+17 Carter 6
+18 Tomphson 21
+19 Lewis 5
+20 Qwarre 3
+21 Silva 11
+
